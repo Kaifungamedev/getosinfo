@@ -11,7 +11,7 @@
     <PackageTags>os</PackageTags>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <Version>1.4.0</Version>
+    <Version>1.4.1</Version>
     <NeutralLanguage>en-US</NeutralLanguage>
     <LangVersion>10</LangVersion>
   </PropertyGroup>

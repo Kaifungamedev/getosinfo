@@ -11,6 +11,8 @@ namespace GetOsinfo
         public static readonly string DeviceName = DeviceInfo.Name.ToString();
 
         public static readonly string Version = DeviceInfo.VersionString.ToString();
+        public static readonly string Platform = DeviceInfo.Platform.ToString();
+
 
         public static readonly string Idiom = DeviceInfo.Idiom.ToString();
 
