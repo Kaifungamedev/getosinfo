@@ -29,7 +29,7 @@ var idiom = Osinfo.Idiom;
 var deviceType = Osinfo.DeviceType;
 ```
 ### getting os type (Desktop or Mobile)
-simply use `Osinfo.GetOSPlatformType(OsTypes.Desktop)` <br>
+simply use `Osinfo.GetOSPlatformType(OsTypes.Desktop)`  
 you can also check for specific platforms with these:
 ```
 OsTypes.Android;
